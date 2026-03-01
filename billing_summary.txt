@@ -3,7 +3,7 @@
 =========================================================
 Date: Sun Mar  1 09:36:18 2026
 Author: BLANKSON KINGSFORD ACQUAH
-Index: 0124148D
+Index: 01241148D
 Course: EEE 227
 ---------------------------------------------------------
 Tariff: GHS 0.30 per kWh
