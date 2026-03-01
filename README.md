@@ -5,7 +5,7 @@
 | Field | Information |
 |-------|-------------|
 | *Name* | BLANKSON KINGSFORD ACQUAH |
-| *Index* | 0124148D |
+| *Index* | 01241148D |
 | *GitHub Username* | bkacquah |
 | *Programme* | HND Electrical Engineering |
 | *Course* | EEE 227 (PT) |
